@@ -8,6 +8,9 @@
     "start": "npm run build && node ./backend/server.js"
   },
   "type": "module",
+  "engines": {
+    "node": ">=20.19.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
